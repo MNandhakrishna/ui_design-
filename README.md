@@ -1,5 +1,6 @@
 # **UI_Design**
 **Overview**
+
 The Mobile UI Design Generator is an innovative application designed to automate the process of creating visually appealing user interface designs for mobile applications. Leveraging state-of-the-art artificial intelligence models, the application combines natural language processing and image generation to transform textual descriptions into dynamic mobile UI visuals.
 
 **Key Features**:AI-Powered Design Generation: Utilizing the GPT-2 model, the application generates detailed prompts from user-provided descriptions, ensuring the generated designs meet user expectations.
